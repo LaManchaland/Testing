@@ -14,3 +14,7 @@ goodness im the most unluckiest person
     <br> -->
   </td>
 </table>
+
+<div align="center">
+  ${\color{#c30010}{\textsf{test}}}$
+</div>
