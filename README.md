@@ -18,3 +18,7 @@ goodness im the most unluckiest person
 <div align="center">
   ${\color{#c30010}{\textsf{test}}}$
 </div>
+
+<div align="center">
+  regular text and ${\color{#c0f545}{\textsf{green one}}}$
+</div>
