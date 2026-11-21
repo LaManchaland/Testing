@@ -5,5 +5,5 @@ ${\color{#C30010}\textsf{red text}}$
 </div>
 
 <div align="center">
-  $${\color{#C30010}\textsf{Another testing... not sure if this works or not}}$$
+  $${\color{#C30010}\textsf{Some final testing... not sure if it works too or just as the same}}$$
 </div>
