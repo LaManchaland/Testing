@@ -1,5 +1,16 @@
 ${\color{#C30010}\textsf{red text}}$
 
-<div align="center">
-  $\textsf{\color{red}im just hoping this one works fine i need to move onto different testings syntax}$
-</div>
+goodness im the most unluckiest person
+<br> anyways...
+
+<table>
+  <td>
+    Table
+  </td>
+</table>
+<table align="right">
+  <td>
+    Table. to the right
+    <br> -->
+  </td>
+</table>
